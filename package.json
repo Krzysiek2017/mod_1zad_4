@@ -1,0 +1,16 @@
+{
+  "name": "zadanie4",
+  "version": "1.0.0",
+  "description": "zadanie4",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Krzysztof",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security"
+  }
+}
